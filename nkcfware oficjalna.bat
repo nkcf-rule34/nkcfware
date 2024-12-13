@@ -5,7 +5,7 @@ echo ----------------
 echo Wybiesz z listy
 echo ----------------
 echo.
-echo 1) randomowe loncze pornuhb !
+echo 1) randomowe loncze !
 echo 2) koza locker ! (niebezpieczny wirus skid)
 echo 3) skid globy x
 echo 4) wyjscie ewakuacyjne
@@ -17,8 +17,8 @@ if %opcja%==3 goto opcja3
 if %opcja%==4 goto opcja4
 :opcja1
 cls
-echo wybrano randomowe loncze pornhub !
-start https://pornhub.com/random/
+echo wybrano randomowe loncze !
+start https://random.com/qp
 pause
 goto poczatek
 :opcja2
